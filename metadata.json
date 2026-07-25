@@ -1,0 +1,6 @@
+{
+  "name": "MaxPlay",
+  "description": "Premium offline video & audio player with equalizer, subtitles, PiP, gestures, and folder browsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

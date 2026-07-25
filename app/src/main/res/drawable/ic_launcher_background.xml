@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:endX="108"
+                android:endY="108"
+                android:startX="0"
+                android:startY="0"
+                android:type="linear">
+                <item
+                    android:color="#6A11CB"
+                    android:offset="0.0" />
+                <item
+                    android:color="#8E2DE2"
+                    android:offset="0.5" />
+                <item
+                    android:color="#B517FF"
+                    android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Elegant translucent glowing ambient arcs for premium visual depth -->
+    <path
+        android:fillColor="#15FFFFFF"
+        android:pathData="M 0 0 C 30 10, 80 10, 108 0 L 108 30 C 80 40, 30 40, 0 30 Z" />
+    <path
+        android:fillColor="#0AFFFFFF"
+        android:pathData="M 0 108 C 30 98, 80 98, 108 108 Z" />
+</vector>
